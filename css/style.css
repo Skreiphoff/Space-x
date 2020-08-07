@@ -109,7 +109,6 @@ header{
     right: 0;
     z-index: 99;
     max-width: 300px;
-
 }
 .footer{
     padding: 130px 0;
@@ -207,6 +206,6 @@ header{
     }
     .features{
         padding-bottom: 0;
-        
+
     }
 }
